@@ -1,6 +1,6 @@
-# Palm Mind AI - Document Ingestion & Conversational RAG Engine
+# Document Ingestion & Conversational RAG Engine
 
-A production-grade, asynchronous backend developed for the **Palm Mind AI (Palm Mind Technology)** engineering hiring assessment.
+A production-grade, asynchronous backend for document ingestion and conversational retrieval-augmented generation.
 
 Built using **FastAPI**, **SQLAlchemy 2.0 (Async)**, **Qdrant Vector Database**, **Redis**, and modern **Pydantic v2**, this service delivers an end-to-end knowledge retrieval engine with multi-turn conversation memory and an automated LLM-driven interview scheduling agent.
 
